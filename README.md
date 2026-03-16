@@ -21,6 +21,7 @@
 </p>
 
 ---
+Nano Banana changed what's possible with texture enhancement. The quality is there. But the steps around it still sucked: finding the right spot on the UV map, isolating it, getting it back onto the model.
 
 ## Why this exists
 
@@ -29,7 +30,7 @@ texture maps to which face, crop the area in an image editor, upload it
 somewhere, write a prompt, wait, download the result, paste it back. Repeat for
 every surface that needed work. It's tedious and it breaks your flow.
 
-[Nano Banana](https://fal.ai/models/fal-ai/nano-banana) genuinely changed what's
+[Nano Banana](https://fal.ai/models/fal-ai/nano-banana) changed what's
 possible with texture enhancement. The quality is there. But the steps around
 it still sucked: finding the right spot on the UV map, isolating it, getting it
 back onto the model.
